@@ -1,5 +1,6 @@
 <a href="" target="_blank">
-<img src="/images/1.png" alt="배너" width="100%"/>
+  <img src="/images/1.png" alt="배너" width="100%"/>
+<img src="/images/2.png" alt="배너" width="100%"/>
 </a>
 
 <br/>
@@ -24,7 +25,7 @@
 # 2. Team Members (팀원 및 팀 소개)
 | 양희연 | 
 |:------:|
-| <img src="https://github.com/" alt="양희연 깃" width="150"> |
+| <img src="https://github.com/user-attachments/assets/c1c2b1e3-656d-4712-98ab-a15e91efa2da" alt="양희연" width="150"> |
 | FE |
 | [GitHub](https://github.com/huiyeony/mern) |
 
@@ -69,8 +70,8 @@
 ## 5.1 Language
 |  |  |
 |-----------------|-----------------|
-| Javascript    |<img src="/images/Javascript.png" alt="Javascript" width="100">| 
-| Typescript    |   <img src="/images/Typescript.png" alt="Typescript" width="100">|
+| Javascript    |<img src="/images/JavaScript.png" alt="Javascript" width="100">| 
+| Typescript    |   <img src="/images/TypeScript.png" alt="Typescript" width="100">|
 
 
 <br/>
@@ -79,7 +80,7 @@
 |  |  |  |
 |-----------------|-----------------|-----------------|
 | React    |  <img src="/images/React.png" alt="React" width="100"> | 18.3.1    |
-| Typescript    |  <img src="/images/Typescript.png" alt="StyledComponents" width="100">| 6.1.12   |
+| Typescript    |  <img src="/images/TypeScript.png" alt="StyledComponents" width="100">| 6.1.12   |
 
 
 <br/>
@@ -87,7 +88,7 @@
 ## 5.3 Backend
 |  |  |  |
 |-----------------|-----------------|-----------------|
-| NestJs    |  <img src="/images/Nestjs.png" alt="Firebase" width="100">    | 10.12.5    |
+| NestJs    |  <img src="/images/NestJS.png" alt="Firebase" width="100">    | 10.12.5    |
 
 <br/>
 

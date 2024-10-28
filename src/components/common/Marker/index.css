@@ -1,0 +1,10 @@
+.marker {
+  border: none;
+  border-radius: 50%;
+  background-color: blue;
+}
+.select {
+  border: none;
+  border-radius: 50%;
+  background-color: red;
+}

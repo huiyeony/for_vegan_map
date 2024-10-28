@@ -1,0 +1,31 @@
+.infoBox {
+  border: 1px solid rgb(0, 0, 0, 0.1);
+  border-radius: 10px;
+  margin: 0px;
+  background: #ffffff;
+  padding: 13px;
+}
+.infoPlaceName {
+  font-size: 14px;
+  font-weight: bold;
+}
+.infoAddressName {
+  font-size: 13px;
+  font-weight: normal;
+  margin-top: 5px;
+}
+.infoButton {
+  width: 100%;
+  padding: 10px;
+  margin-top: 6px;
+  background-color: #0385ff;
+
+  border: none;
+  border-radius: 5px;
+  color: #ffffff;
+
+  font-size: 11px;
+  font-weight: bold;
+
+  text-align: center;
+}
